@@ -7,14 +7,9 @@
     background-color: #676767;
 }
 
-/*Heading*/
 
 header {
     margin: 0;
-}
-
-.heading {
-    margin-left: 50px;
 }
 
 
@@ -28,7 +23,7 @@ header {
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
 }
-
+/*
 .name {
     font-family: "Exo", sans-serif;
     font-weight: 100;
@@ -45,10 +40,6 @@ header {
     margin-bottom: 90px;
     color: #fff;
 }
-
-
-
-
 
 
 
